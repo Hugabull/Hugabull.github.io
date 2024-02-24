@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+}
+
+
+
+.nav ul {
+display: flex;
+flex-direction: row;
+list-style: none;
+background-color: #000000;
+height: 50px;
+margin: 0%;
+
+}
+.nav a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 50px;
+    color:#c07f28;
+    font-size: xx-large;
+}
+
+p{
+    color: aqua;
+}
+img{
+   width: auto; 
+   height:500px;
+   position: fixed;
+   left: 1080px;
+   top: 200px;
+}
