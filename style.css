@@ -23,12 +23,12 @@ margin: 0%;
 }
 
 p{
-    color: aqua;
+    color: black;
 }
 img{
    width: auto; 
    height:500px;
    position: fixed;
-   left: 1080px;
-   top: 200px;
+   left: 50%;
+   top: 50%;
 }
