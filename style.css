@@ -21,14 +21,20 @@ margin: 0%;
     color:#c07f28;
     font-size: xx-large;
 }
-
-p{
+.git p{
+font-size: 200%;
+margin-left: 50px;
+}
+.text p{
     color: black;
+    font-size: larger;
+    margin-left: 10%;
+    margin-top: 550px;
 }
 img{
    width: auto; 
    height:500px;
    position: fixed;
-   left: 50%;
-   top: 50%;
+   left: 35%;
+   top: 150px;
 }
